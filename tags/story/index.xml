@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>story on Coder &amp;&amp; Gamer</title>
+    <link>https://WaltCuller.github.io/tags/story/</link>
+    <description>Recent content in story on Coder &amp;&amp; Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2022 01:55:39 +0800</lastBuildDate><atom:link href="https://WaltCuller.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://WaltCuller.github.io/posts/my-third-post/</link>
+      <pubDate>Sun, 27 Nov 2022 01:55:39 +0800</pubDate>
+      
+      <guid>https://WaltCuller.github.io/posts/my-third-post/</guid>
+      <description>third&amp;nbsp;¶ 1</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://WaltCuller.github.io/posts/my-second-post/</link>
+      <pubDate>Sun, 27 Nov 2022 01:52:20 +0800</pubDate>
+      
+      <guid>https://WaltCuller.github.io/posts/my-second-post/</guid>
+      <description>second&amp;nbsp;¶ 3</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://WaltCuller.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 27 Nov 2022 01:09:07 +0800</pubDate>
+      
+      <guid>https://WaltCuller.github.io/posts/my-first-post/</guid>
+      <description>TODO&amp;nbsp;¶ do sth&amp;nbsp;¶ test</description>
+    </item>
+    
+  </channel>
+</rss>
