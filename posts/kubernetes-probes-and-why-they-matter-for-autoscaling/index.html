@@ -11,7 +11,7 @@
 
 <meta name="description" content="still finding myself🐣">
 <title>
-    My Third Post - Coder &amp;&amp; Gamer
+    My Third Post - Color
 </title>
 
 
@@ -40,8 +40,7 @@
 
 
 
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/tn.png" /><meta name="twitter:title" content="My Third Post"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="My Third Post"/>
 <meta name="twitter:description" content="Kubernetes Probes (and Why They Matter for Autoscaling)&nbsp;¶ K8s 探针以及与自动扩缩容的关系&nbsp;¶ 为了确认线上应用的健康状态，可以使用探针来监控和采集其他影响容器的信息。
 确认运行在 K8s 上的工作应用的状态健康对于应用的运行起到决定性作用。为了管理不同工作负载的健康状态，通过采集操作系统和应用组件并集中在监控工具上来实现信息的遥测和后续诊断。一旦有变动，这份监测数据可以分享给多个角色，包括系统管理者、DevOps 团队、SRE团队等，帮助他们决策和应对。
 采集遥测信息的一种方案是使用探针机制。探针进程可以进行诊断检查，因此健康探针可以确认应用是可用并持续工作状态，从 load balancer 传递到指定终端，如 web应用集合。如果探针正常工作情况下，终端没有对应响应，load balancer 会忽略该错误终端而不是传递给用户错误内容。
@@ -63,7 +62,7 @@ startup readiness liveness startup&nbsp;¶ Startup 探针是最先运行的探�
 例： 当需要监测容器的慢启动时，假如使用 liveness 探针，应用可能因为对启动的错误判断而被过早 terminated，而使用 startup 探针可以准确有效判断容器启动。
 readiness&nbsp;¶ Readiness 探针提供了 Kubernetes 集群中容器是否可以接受请求，承接流量的信息。 当 readiness 探针处于失败状态，不会有网络请求送至 pod。所以，该 pod 会从相关 service 中移除。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/kubernetes-probes-and-why-they-matter-for-autoscaling/" /><meta property="og:image" content="http://localhost:1313/tn.png" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="http://localhost:1313/posts/kubernetes-probes-and-why-they-matter-for-autoscaling/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-02-14T01:55:39+08:00" />
 <meta property="article:modified_time" content="2023-02-14T01:55:39+08:00" /><meta property="og:site_name" content="todo" />
 
@@ -256,12 +255,12 @@ Readiness 探针主要用来确认容器是否能承接网络请求，当该容�
     
         
             
-            <a href="/gallery">gallery</a>
+            <a href="/gallery">wanna be a photographer</a>
         
             
                 &#183;
             
-            <a href="/posts">blog</a>
+            <a href="/posts">wanna be a blogger</a>
         
             
                 &#183;
@@ -281,7 +280,7 @@ Readiness 探针主要用来确认容器是否能承接网络请求，当该容�
 
     </main>
     
-    <footer class="flex-container footer">a theme for Hugo.
+    <footer class="flex-container footer">
 </footer>
     
     
