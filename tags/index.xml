@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -32,6 +31,3 @@
     </item>
   </channel>
 </rss>
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Coder &amp;&amp; Gamer</title><link>https://WaltCuller.github.io/tags/</link><description>Recent content in Tags on Coder &amp;&amp; Gamer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://WaltCuller.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
->>>>>>> dfe8d88adb33b964b3e56464ea554621ac22a5e4
