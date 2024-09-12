@@ -1,2 +1,611 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Color</title><link>https://WaltCuller.github.io/</link><description>Recent content on Color</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://WaltCuller.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Gallery</title><link>https://WaltCuller.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://WaltCuller.github.io/gallery/</guid><description>gallery
-Add sth</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Color</title><link>https://WaltCuller.github.io/</link><description>Recent content on Color</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://WaltCuller.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Gallery</title><link>https://WaltCuller.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://WaltCuller.github.io/gallery/</guid><description>&lt;p>gallery&lt;/p>
+&lt;p>Add sth&lt;/p>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		&lt;script src="https://WaltCuller.github.io/shortcode-gallery/jquery-3.7.1.min.js">&lt;/script>
+	
+
+	
+		&lt;script src="https://WaltCuller.github.io/shortcode-gallery/lazy/jquery.lazy.min.js">&lt;/script>
+	
+
+	&lt;script src="https://WaltCuller.github.io/shortcode-gallery/swipebox/js/jquery.swipebox.min.js">&lt;/script>
+	&lt;link rel="stylesheet" href="https://WaltCuller.github.io/shortcode-gallery/swipebox/css/swipebox.min.css">
+
+	&lt;script src="https://WaltCuller.github.io/shortcode-gallery/justified_gallery/jquery.justifiedGallery.min.js">&lt;/script>
+	&lt;link rel="stylesheet" href="https://WaltCuller.github.io/shortcode-gallery/justified_gallery/justifiedGallery.min.css"/>
+
+
+&lt;style>
+	
+
+	
+		 
+		/* Changes made here sadly only apply after restarting hugo server */
+/* make 5px space between the button(filter options) in the filter bar */
+.justified-gallery-filterbar {
+ display: flex;
+ justify-content: flex-start;
+ flex-wrap: wrap;
+ gap: 5px; }
+ .justified-gallery-filterbar button {
+ padding: 6px;
+ border: 1px solid #fff;
+ border-radius: 5px;
+ background-color: transparent;
+ font-weight: bold;
+ color: #fff;
+ line-height: 1em; }
+ .justified-gallery-filterbar button:hover {
+ text-decoration: underline; }
+ .justified-gallery-filterbar button.selected {
+ text-decoration: underline;
+ background-color: #fff3; }
+ .justified-gallery-filterbar button svg {
+ width: 1em;
+ height: 1em;
+ transform: rotate(90deg);
+ transition: transform .2s linear; }
+ .justified-gallery-filterbar button:hover svg {
+ transform: rotate(90deg) scale(1.3); }
+
+.fulltab {
+ position: absolute;
+ top: 0;
+ left: 0;
+ z-index: 100;
+ min-height: 100%;
+ min-width: 100%;
+ background-color: #222; }
+ .fulltab .justified-gallery-filterbar {
+ position: sticky;
+ top: 0;
+ left: 0;
+ z-index: 101;
+ background-color: #222;
+ padding: 5px;
+ margin: 0px; }
+
+	
+&lt;/style>
+
+
+
+
+
+&lt;div id="gallery-665288c8761d48eb3366c37954243edc-0-wrapper" class="gallery-wrapper">
+&lt;div id="gallery-665288c8761d48eb3366c37954243edc-0" class="justified-gallery">
+	
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div>
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href="https://WaltCuller.github.io/gallery/images/shanghai.jpeg"
+					class="galleryImg"
+					
+						
+							title="Shanghai First Day"
+						
+
+						
+							data-description="NIKON Z 5 + NIKKOR Z 24-200mm f/4-6.3 VR&lt;br/>24mm f/4.0 1/6400sec ISO 5000"
+						
+
+						
+							
+							data-meta="{&amp;#34;ColorLabels&amp;#34;:null,&amp;#34;ImageDescription&amp;#34;:null,&amp;#34;Rating&amp;#34;:5,&amp;#34;Tags&amp;#34;:[&amp;#34;city&amp;#34;]}"
+						
+					
+					>
+					&lt;img
+						width="600" height="401"
+
+						
+							
+							style="filter: blur(25px);"
+							
+								src="data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AI7HSwEHy1dOnDH3ams76zS3MjyoqIuWJPQU2fxHo/kSCK9jMm1tuATyBVqohODKU2nDH3ayL/ThtPy1r6rr1vbXiRLIoVJdsmMHK/Lk/huP5Uy/urR4d6SoynoQetP2iFyM8&amp;#43;jt5pogsl1Iy/3TyKebHYuVlxj/AGRUtt9wVNJ/qz&amp;#43;NZGhQuo5UJPnknPXGKz7iWePMfnuV6YzjNat93&amp;#43;v&amp;#43;FZF7/rTTEf/Z"
+							
+							class="lazy"
+							data-src="https://WaltCuller.github.io/gallery/images/shanghai_hu15010589757548394779.jpeg"
+						
+
+						
+							
+								
+									alt="Shanghai First Day"
+								
+							
+						
+					>
+				&lt;/a>
+			&lt;/div>
+		
+	
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div>
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href="https://WaltCuller.github.io/gallery/images/DSC_1928.JPG"
+					class="galleryImg"
+					
+						
+							title="The King"
+						
+
+						
+							data-description="NIKON Z 8 + NIKKOR Z 100-400mm f/4.5-5.6 VR S&lt;br/>400mm f/5.6 1/250sec ISO 640"
+						
+
+						
+							
+							data-meta="{&amp;#34;ColorLabels&amp;#34;:&amp;#34;RG&amp;#34;,&amp;#34;ImageDescription&amp;#34;:null,&amp;#34;Rating&amp;#34;:5,&amp;#34;Tags&amp;#34;:[&amp;#34;animal&amp;#34;,&amp;#34;favorite&amp;#34;]}"
+						
+					
+					>
+					&lt;img
+						width="600" height="400"
+
+						
+							
+							style="filter: blur(25px);"
+							
+								src="data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/ANSKKIqAYxkc9KW7hWSNTGsgcf8APNcZH48VlpPfNGC0xCP/ABq3T&amp;#43;VV4tSWSW5tpJfNn6kk42qOn8/1rJ1VbQ1jSd9TZiijL7GmZ26/NggfkKwNeyVG6Mjk/MDgEe34GobbU7nT7aR7sxjAaRFTrsyeDk5zx39RTdSu1v4leOXfGFJX5s4pqTd0wcUmmh1pfzXmkwTqfKxJ90c5GDwax9UtXj1KOeG4eN5soSPQVf0X/kXof&amp;#43;uh/rUGrf8AH1a/77fyrFaM1eqJl8PtqFvNcz3mFjmEckcce3zB1654qFwLOxCIAVUYx0/z6V0Fh/yB73/r6H8q5&amp;#43;&amp;#43;/48z9f6GtUZs//9k="
+							
+							class="lazy"
+							data-src="https://WaltCuller.github.io/gallery/images/DSC_1928_hu6977463402933116326.JPG"
+						
+
+						
+							
+								
+									alt="The King"
+								
+							
+						
+					>
+				&lt;/a>
+			&lt;/div>
+		
+	
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div>
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href="https://WaltCuller.github.io/gallery/images/DSC_0097.JPG"
+					class="galleryImg"
+					
+						
+							title="路"
+						
+
+						
+							data-description="NIKON Z 5 + NIKKOR Z 35mm f/1.8 S&lt;br/>35mm f/1.8 1/320sec ISO 160"
+						
+
+						
+							
+							data-meta="{&amp;#34;ColorLabels&amp;#34;:&amp;#34;RG&amp;#34;,&amp;#34;ImageDescription&amp;#34;:null,&amp;#34;Rating&amp;#34;:1,&amp;#34;Tags&amp;#34;:[&amp;#34;city&amp;#34;]}"
+						
+					
+					>
+					&lt;img
+						width="600" height="401"
+
+						
+							
+							style="filter: blur(25px);"
+							
+								src="data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AOTsLOJrNnf5GGcKMln9h2Axz3NTwQZcmNVI5IViCB6ZzxQt2Z493mpHKp6Dd82VOQFHAPOPy6VJbTo7iFxHGsjYZzk7R09e3/681qjfoO2f6KjCZZHY/NG2R6nnt2FVZIYvNKStsDAFhyRnjgcHv61fMjxIXjUbFZdyclX4xu579T7ZyKrT2zoRyAznDhWO09enPXDD0/xlu2pL1M1f9Bn&amp;#43;b96TEkgzxgsoP6ZrSt5jLLI0gyrSKpQHjABIA744A&amp;#43;lZt9/r1/69of8A0WtXrT&amp;#43;P/rt/7K1NbXLW5c&amp;#43;1ta6bIVG83XLbzkYxnHr3657CsydjdRyKMRxxxK4XAOTjnrVu6/5B0H&amp;#43;4f/QBVOP7lz/17D/0Go7ks//Z"
+							
+							class="lazy"
+							data-src="https://WaltCuller.github.io/gallery/images/DSC_0097_hu17073443038530374044.JPG"
+						
+
+						
+							
+								
+									alt="路"
+								
+							
+						
+					>
+				&lt;/a>
+			&lt;/div>
+		
+	
+&lt;/div>
+&lt;/div>
+
+&lt;script>
+	if (!("HSCGjQuery" in window)) {
+		if (!window.jQuery) {
+			throw new Error("jQuery is not loaded, hugo-shortcode-gallery wont work without it!");
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
+	}
+
+	
+	
+	
+	
+	
+	;(function($) {
+
+		$( document ).ready(() => {
+			const gallery = $("#gallery-665288c8761d48eb3366c37954243edc-0");
+			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on('jg.complete', () => {
+				
+					
+					
+					$(() => {
+						$('.lazy').Lazy({
+							visibleOnly: true,
+							afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+						});
+					});
+				
+
+				swipeboxInstance = $('.galleryImg').swipebox(
+					$.extend({},
+						{ }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery($.extend(
+				{
+					rowHeight : "150",
+					margins : "5",
+					border : 0,
+					randomize : false ,
+					waitThumbnailsLoad : false,
+					lastRow : "justify",
+					captions : false,
+					
+					
+						
+						
+						
+						filter : () => false
+					
+				},
+				{ }
+			));
+
+			
+			
+
+				
+				
+				function createMetadataFilter(filterFunction) {
+					return (entry, index, array) => {
+						let meta = $(entry).find("a").attr("data-meta");
+						meta = meta ? JSON.parse(meta) : {};
+
+						let include = filterFunction(meta);
+
+						
+						
+						$(entry).find("a").toggleClass("galleryImg", include);
+
+						return include;
+					}
+				}
+
+				
+				
+				function createTagFilter(tagsRegexString) {
+					const tagsRegex = RegExp(tagsRegexString);
+					return createMetadataFilter(meta => {
+						let tags = meta.Tags;
+						tags = tags ? tags : [];
+						return tags.some(tag => tagsRegex.test(tag));
+					});
+				};
+
+				
+				
+				function createImageDescriptionFilter(descriptionRegexString) {
+					const descriptionRegex = RegExp(descriptionRegexString);
+					return createMetadataFilter(meta => {
+						let imageDescription = meta.ImageDescription;
+						return imageDescription !== null &amp;&amp; descriptionRegex.test(imageDescription);
+					});
+				};
+
+				
+				
+				function createRatingFilter(min, max) {
+					return createMetadataFilter(meta => {
+						let rating = meta.Rating;
+						if(rating === null){
+							rating = -1;
+						}
+						return rating >= min &amp;&amp; rating &lt;= max;
+					});
+				};
+
+				
+				
+				function createColorLabelFilter(color) {
+					color = color.charAt(0).toLowerCase()
+					return createMetadataFilter(meta => {
+						let colors = meta.ColorLabels;
+						return colors &amp;&amp; colors.includes(color);
+					});
+				};
+
+
+				const filterOptions = [{label: 'All', tags: '.*'}, {label: 'Favorite', tags: 'favorite'}, {label: 'City', tags: 'city'}, {label: 'Macro', tags: 'macro'}, {label: 'Animal', tags: 'animal'}];
+
+				
+				const filterBar = $("&lt;div class='justified-gallery-filterbar'/>");
+				gallery.before(filterBar);
+
+				var wrapper = document.getElementById("gallery-665288c8761d48eb3366c37954243edc-0-wrapper");
+
+				
+				const expandIcon = '\u003csvg aria-hidden=\u0022true\u0022 focusable=\u0022false\u0022 data-prefix=\u0022fas\u0022 data-icon=\u0022expand-alt\u0022 role=\u0022img\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022 viewBox=\u00220 0 448 512\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M212.686 315.314L120 408l32.922 31.029c15.12 15.12 4.412 40.971-16.97 40.971h-112C10.697 480 0 469.255 0 456V344c0-21.382 25.803-32.09 40.922-16.971L72 360l92.686-92.686c6.248-6.248 16.379-6.248 22.627 0l25.373 25.373c6.249 6.248 6.249 16.378 0 22.627zm22.628-118.628L328 104l-32.922-31.029C279.958 57.851 290.666 32 312.048 32h112C437.303 32 448 42.745 448 56v112c0 21.382-25.803 32.09-40.922 16.971L376 152l-92.686 92.686c-6.248 6.248-16.379 6.248-22.627 0l-25.373-25.373c-6.249-6.248-6.249-16.378 0-22.627z\u0022\u003e\u003c\/path\u003e\u003c\/svg\u003e';
+				const compressIcon = '\u003csvg aria-hidden=\u0022true\u0022 focusable=\u0022false\u0022 data-prefix=\u0022fas\u0022 data-icon=\u0022compress-alt\u0022 role=\u0022img\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022 viewBox=\u00220 0 448 512\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M4.686 427.314L104 328l-32.922-31.029C55.958 281.851 66.666 256 88.048 256h112C213.303 256 224 266.745 224 280v112c0 21.382-25.803 32.09-40.922 16.971L152 376l-99.314 99.314c-6.248 6.248-16.379 6.248-22.627 0L4.686 449.941c-6.248-6.248-6.248-16.379 0-22.627zM443.314 84.686L344 184l32.922 31.029c15.12 15.12 4.412 40.971-16.97 40.971h-112C234.697 256 224 245.255 224 232V120c0-21.382 25.803-32.09 40.922-16.971L296 136l99.314-99.314c6.248-6.248 16.379-6.248 22.627 0l25.373 25.373c6.248 6.248 6.248 16.379 0 22.627z\u0022\u003e\u003c\/path\u003e\u003c\/svg\u003e';
+
+				function setFulltab(activate) {
+					if(activate == wrapper.classList.contains("fulltab")){
+						return; 
+					}
+
+					wrapper.classList.toggle("fulltab");
+					gallery.justifiedGallery({
+						rowHeight : "150" * (activate ? 1.5 : 1.0),
+						lastRow: (activate ? "nojustify": "justify"),
+						
+						refreshTime: 0,
+					});
+					
+					gallery.data('jg.controller').startImgAnalyzer();
+					fullTabButton.html(wrapper.classList.contains("fulltab") ? compressIcon : expandIcon)
+				};
+
+				const fullTabButton = $("&lt;button/>");
+				fullTabButton.html(expandIcon);
+				fullTabButton.click(() => setFulltab(!wrapper.classList.contains("fulltab")));
+				filterBar.append(fullTabButton);
+				$(document).keyup(e => {
+					
+					if (e.keyCode === 27){
+						setFulltab(false);
+					}
+				});
+
+				function activateFilterButton(filterButton) {
+					
+					gallery.justifiedGallery({filter : filterButton.filter});
+					
+					filterBar.find('.selected').removeClass('selected');
+					filterButton.addClass("selected");
+				};
+
+				
+				
+				const params = new URLSearchParams(location.hash.replace(/^\#/,""));
+				let activeFilter = params.get('gallery-filter');
+				if (!activeFilter) {
+					
+					activeFilter = filterOptions[0].label;
+				}
+
+				
+				filterOptions.forEach(filterConfig => {
+					let filter; 
+					if(filterConfig.tags) {
+						filter = createTagFilter(filterConfig.tags);
+					} else if(filterConfig.rating){
+						if(filterConfig.rating.includes("-")){
+							minMax = filterConfig.rating.split("-"); 
+						} else {
+							minMax = [filterConfig.rating, filterConfig.rating]; 
+						}
+						filter = createRatingFilter(parseInt(minMax[0]), parseInt(minMax[1]));
+					} else if(filterConfig.color_label){
+						filter = createColorLabelFilter(filterConfig.color_label);
+					} else if(filterConfig.description){
+						filter = createImageDescriptionFilter(filterConfig.description);
+					} else {
+						
+						filter = createMetadataFilter(meta => true);
+					}
+
+					const filterButton = $("&lt;button/>");
+					filterButton.text(filterConfig.label);
+					filterButton.filter = filter;
+					filterButton.click(() => {
+						activateFilterButton(filterButton);
+
+						
+							
+							const params = new URLSearchParams(location.hash.replace(/^\#/,""));
+							params.set('gallery-filter', filterConfig.label);+
+							window.history.replaceState("", "", location.pathname + location.search + "#" + params.toString());
+						
+					});
+					filterBar.append(filterButton);
+
+					if(filterConfig.label.toLowerCase() === activeFilter.toLowerCase()) {
+						activateFilterButton(filterButton);
+					}
+				});
+			
+		});
+
+	
+	
+	
+	})(window.HSCGjQuery)
+&lt;/script></description></item></channel></rss>
